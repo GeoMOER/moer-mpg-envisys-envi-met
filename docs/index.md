@@ -1,5 +1,5 @@
 ---
-title: Environmental Systems Microclimate Modeling
+title: Environmental Systems - Microclimate Modeling
 layout: splash
 date: '2021-04-15 13:00:00 +0100'
 header:
