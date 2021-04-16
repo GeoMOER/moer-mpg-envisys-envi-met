@@ -1,3 +1,4 @@
+![Course Header](https://github.com/GeoMOER/moer-bsc-systemdynamik/blob/master/docs/assets/images/sysdyn_title.png "Image source:https://envi-met.info/lib/exe/fetch.php?cache=&media=examples:thermal_pic.png")
 
 This course is brought to you as part of the [Open Educational Resources](https://oer.uni-marburg.de) initiative of [Marburg University, Germany](https://www.uni-marburg.de/de) from the working group on [Environmental Informatics](https://www.uni-marburg.de/fb19/fachgebiete/umweltinformatik/) of the [Department of Geography](https://www.uni-marburg.de/fb19).
 
