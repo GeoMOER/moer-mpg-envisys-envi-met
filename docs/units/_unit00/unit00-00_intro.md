@@ -31,8 +31,7 @@ For the time of digital teaching at a distance, we use the following communicati
 ### This website
 This website is designed for one-way communication and provision of materials from us to you.
 
-
 ### Direct contact
-You can reach me under the e-mail *reudenbach@geo.uni-marburg.de*. Please integrate the keyword **GISFE** into the subject line  . Conversely, I expect to reach you via your official student e-mail and ask you to check this regularly, at least once in the morning and once in the evening.
+You can reach me under the e-mail *reudenbach@geo.uni-marburg.de*. Please integrate the keyword **[envi_met]** into the subject line  . Conversely, I expect to reach you via your official student e-mail and ask you to check this regularly, at least once in the morning and once in the evening.
 
 
