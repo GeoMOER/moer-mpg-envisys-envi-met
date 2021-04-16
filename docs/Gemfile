@@ -4,12 +4,12 @@ source "https://rubygems.org"
 # When you want to use a different version, change it below, save the
 # file and run `bundle install`. Run Jekyll with `bundle exec`, like so:
 #
-#     bundle exec jekyll serve
+#     bundle exec jekyll serve --incremental
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 # moer: Comment out line below to loosen version restrictions.
-# gem "jekyll", "~> 3.7.2"
+gem "jekyll", "~> 3.8"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 # moer: Comment out line below to use custom theme.
@@ -23,15 +23,18 @@ gem "github-pages", group: :jekyll_plugins
 
 # If you have any plugins, put them here!
 # moer: Add more plugins.
-group :jekyll_plugins do
+group 'jekyll-plugins' do
   gem "jekyll-feed", "~> 0.6"
-  gem "jekyll-admin"
   gem "jekyll-paginate"
   gem "jekyll-sitemap"
   gem "jekyll-gist"
   gem "jemoji"
   gem "jekyll-include-cache"
   gem "jekyll-algolia"
+  gem "rack", ">= 2.1.4"
+  gem "activesupport", ">= 4.1.11"
+  gem "kramdown", ">= 2.3.1"
+  gem "pandoc-ruby"
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
@@ -42,4 +45,3 @@ gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 
 
-gem "jekyll", "~> 3.8"
