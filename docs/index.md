@@ -110,8 +110,6 @@ In an average work week, you should spend 10-12 hours on the course. The breakdo
 {% endfor %}
 
 
-{% include author-profile.html %}
-
 # Authors
 
 
