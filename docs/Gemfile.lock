@@ -32,6 +32,9 @@ GEM
     ethon (0.13.0)
       ffi (>= 1.15.0)
     eventmachine (1.2.7)
+    eventmachine (1.2.7-java)
+    eventmachine (1.2.7-x64-mingw32)
+    eventmachine (1.2.7-x86-mingw32)
     excon (0.80.1)
     execjs (2.7.0)
     faraday (1.4.0)
@@ -46,6 +49,9 @@ GEM
     faraday-net_http_persistent (1.0.3)
       net-http-persistent (>= 3.1)
     ffi (1.15.0)
+    ffi (1.15.0-java)
+    ffi (1.15.0-x64-mingw32)
+    ffi (1.15.0-x86-mingw32)
     filesize (0.2.0)
     forwardable-extended (2.6.0)
     gemoji (3.0.1)
@@ -103,6 +109,7 @@ GEM
       activesupport (>= 2)
       nokogiri (>= 1.4)
     http_parser.rb (0.6.0)
+    http_parser.rb (0.6.0-java)
     httpclient (2.8.3)
     i18n (0.9.5)
       concurrent-ruby (~> 1.0)
@@ -224,6 +231,7 @@ GEM
       html-pipeline (~> 2.2)
       jekyll (>= 3.0, < 5.0)
     json (2.5.1)
+    json (2.5.1-java)
     kramdown (2.3.1)
       rexml
     kramdown-parser-gfm (1.1.0)
@@ -245,15 +253,21 @@ GEM
     nokogiri (1.11.3)
       mini_portile2 (~> 2.5.0)
       racc (~> 1.4)
+    nokogiri (1.11.3-java)
+      racc (~> 1.4)
+    nokogiri (1.11.3-x64-mingw32)
+      racc (~> 1.4)
+    nokogiri (1.11.3-x86-mingw32)
+      racc (~> 1.4)
     octokit (4.20.0)
       faraday (>= 0.9)
       sawyer (~> 0.8.0, >= 0.5.3)
-    pandoc-ruby (2.1.4)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     progressbar (1.11.0)
     public_suffix (4.0.6)
     racc (1.5.2)
+    racc (1.5.2-java)
     rack (2.2.3)
     rb-fsevent (0.10.4)
     rb-inotify (0.10.1)
@@ -278,24 +292,34 @@ GEM
     terminal-table (1.8.0)
       unicode-display_width (~> 1.1, >= 1.1.1)
     thread_safe (0.3.6)
+    thread_safe (0.3.6-java)
     typhoeus (1.4.0)
       ethon (>= 0.9.0)
     tzinfo (1.2.9)
       thread_safe (~> 0.1)
+    tzinfo-data (1.2021.1)
+      tzinfo (>= 1.0.0)
     unf (0.1.4)
       unf_ext
+    unf (0.1.4-java)
     unf_ext (0.0.7.7)
+    unf_ext (0.0.7.7-x64-mingw32)
+    unf_ext (0.0.7.7-x86-mingw32)
     unicode-display_width (1.7.0)
     verbal_expressions (0.1.5)
     zeitwerk (2.4.2)
 
 PLATFORMS
+  java
   ruby
+  x64-mingw32
+  x86-mingw32
+  x86-mswin32
 
 DEPENDENCIES
   activesupport (>= 4.1.11)
   github-pages
-  jekyll (~> 3.8)
+  jekyll (>= 3.7.4)
   jekyll-algolia
   jekyll-feed (~> 0.6)
   jekyll-gist
@@ -304,8 +328,8 @@ DEPENDENCIES
   jekyll-sitemap
   jemoji
   kramdown (>= 2.3.1)
-  pandoc-ruby
   rack (>= 2.1.4)
+  tzinfo-data
 
 BUNDLED WITH
    2.1.4

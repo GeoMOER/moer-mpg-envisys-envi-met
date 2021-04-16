@@ -146,7 +146,6 @@ defaults:
 plugins:
   - jekyll-feed
   - jekyll-sitemap
-  - jekyll-admin
   - jekyll-paginate
   - jekyll-gist
   - jemoji
