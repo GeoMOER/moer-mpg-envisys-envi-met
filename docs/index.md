@@ -1,7 +1,6 @@
 ---
 title: Environmental Systems Microclimate Modeling
 layout: splash
-date: '2018-02-06 13:00:00 +0100'
 header:
   overlay_color: "#000"
   overlay_filter: 0.6
