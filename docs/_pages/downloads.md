@@ -14,7 +14,7 @@ Under the following link you will find all contents of the course as single PDF 
 Snapshot status: 16.04.2021 - please check regularly for updates.
 The website is considered to be a reference - the PDF files may have slight differences in content to the pages. Please note that some of the media can not be included for copyright or technical reasons. 
 {: .notice--info}
-{% include pdf-zip pdf-zip="moer-mpg-rsgi-basics.zip" %}
+{% include pdf-zip pdf-zip="moer-mpg-envisys-envi-met.zip" %}
 {: .notice--success}
 
 

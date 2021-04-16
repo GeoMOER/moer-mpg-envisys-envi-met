@@ -7,9 +7,10 @@ header:
   overlay_filter: 0.6
   overlay_image: "/assets/images/envi_met_title.png"
   caption: 'Photo credit: [**envi_met**](https://envi-met.info/lib/exe/fetch.php?cache=&media=examples:thermal_pic.png)'
+  cta_url: "/downloads.html"
   cta_label: Go to course units
   cta_url: "/units.html"
-  cta_url: "/downloads.html"
+
 excerpt: Modeling a forest microclimate using Envi_Met
 feature_row_intro:
 - excerpt: Master level course in [Physical Geography](https://www.uni-marburg.de/fb19/studium/studiengaenge/msc-phygeo) at Marburg University
