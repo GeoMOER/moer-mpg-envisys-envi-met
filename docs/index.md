@@ -4,7 +4,7 @@ layout: splash
 date: '2021-04-15 13:00:00 +0100'
 header:
   overlay_color: "#000"
-  overlay_filter: 0.6
+  overlay_filter: 0.7
   overlay_image: "/assets/images/envi_met_title.png"
   caption: 'Photo credit: [**envi_met**](https://envi-met.info/lib/exe/fetch.php?cache=&media=examples:thermal_pic.png)'
   cta_url: "/downloads.html"
