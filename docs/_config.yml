@@ -136,7 +136,7 @@ defaults:
       path: ""
       type: unit05
     values:
-      category: "Workingsheets"
+      category: "Worksheets"
       tags: "Unit|05"
       layout: single
       sidebar:
