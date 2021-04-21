@@ -1,5 +1,5 @@
 ---
-title: ""
+title:  "Worksheet"
 
 header:
   image: "/assets/images/envi_met_title.png"
@@ -14,4 +14,4 @@ The Working Sheets will provide weekly assignments related to the general task o
 * Graded examinations (Prüfungsleistung)  will be marked as [graded](){: .btn .btn--warning}
 {: .notice--success}
 
-{% include spotlights_page %}
+{% include worksheet_page %}
