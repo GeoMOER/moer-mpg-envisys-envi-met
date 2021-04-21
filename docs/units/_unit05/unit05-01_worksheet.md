@@ -21,9 +21,8 @@ This task involves three sub-areas:
 
 ## Things you need 
 
-{% include gallery id="panel1" layout="third" caption="[Course Data Server](https://137.248.191.215:8989/sharing/SxrDkOsBp) Data folder for any file exchange and data related purposes." %} 
-
-ENVI-met software at the [ENVI-met landing page](https://envi-met.info/doku.php?id=start)
+* [Course Data Server](https://137.248.191.215:8989/sharing/SxrDkOsBp) 
+* [ENVI-met software](https://envi-met.info/doku.php?id=start)
 
 
 
@@ -39,17 +38,18 @@ In the folder Literature you will find chapter1.pdf and chapter3.pdf. Both are r
 
 The task is then as follows:
 
-    * Installation of ENVI-met on your computer
-    *  Read session_1_conpepts.pdf for a first introduction to the ENVI-met model concepts (chapter3.pdf could also be helpful here for supplementation and deepening)
-    => If available, articulate questions problems
+* Installation of ENVI-met on your computer
+*  Read session_1_conpepts.pdf for a first introduction to the ENVI-met model concepts (chapter3.pdf could also be helpful here for supplementation and deepening)
+=> If available, articulate questions problems
 
-    * Read session_1_apps.pdf as a basis for the example modeling "Precipitation".
-     => If available, articulate questions, problems, etc. 
-    * Run the precipitation simulation (check if it runs)
-     => If available, articulate questions, problems etc.
+* Read session_1_apps.pdf as a basis for the example modeling "Precipitation".
+=> If available, articulate questions, problems, etc. 
 
-    Cross-reading of min 2 publications (What is the basic idea)
-    => Prepare a short summary
+* Run the precipitation simulation (check if it runs)
+=> If available, articulate questions, problems etc.
+
+* Cross-reading of min 2 publications (What is the basic idea)
+=> Prepare a short summary
 
 Any written notes please put them on [Trello](https://trello.com/invite/b/wTdarJkV/256c20df677f25924b21e86003d2edf1/umwelstsysteme-envi-met) in the board for this course. 
 
