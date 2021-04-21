@@ -124,7 +124,7 @@ defaults:
       toc: true
       toc_label: On this page      
     values:
-      category: "Reader"
+      category: "Resources"
       tags: "Unit|02"
       layout: single
       sidebar:
@@ -136,7 +136,7 @@ defaults:
       path: ""
       type: unit05
     values:
-      category: "Tasks"
+      category: "Workingsheets"
       tags: "Unit|05"
       layout: single
       sidebar:
