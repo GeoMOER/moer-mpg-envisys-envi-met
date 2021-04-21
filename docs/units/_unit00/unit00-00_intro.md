@@ -2,6 +2,11 @@
 title: Digital learning at a distance
 toc: true
 toc_label: In this example
+
+header:
+  image: "/assets/images/envi_met_title.png"
+  image_description: "modeling domain"
+  caption: "gisma / CC0"
 ---
 
 We offer weekly input with a new course unit. Depending on the topic, we start this with live streaming, a web conference, videos, texts or other materials. After the input, the exercises are presented, which should be worked on to successfully complete the project. Open questions can be asked at any time during the course or via email. All questions will be discussed in a screencast or online (FAQ). 
@@ -32,6 +37,6 @@ For the time of digital teaching at a distance, we use the following communicati
 This website is designed for one-way communication and provision of materials from us to you.
 
 ### Direct contact
-You can reach me under the e-mail *reudenbach@geo.uni-marburg.de*. Please integrate the keyword **[envi_met]** into the subject line  . Conversely, I expect to reach you via your official student e-mail and ask you to check this regularly, at least once in the morning and once in the evening.
+You can reach me under the e-mail *reudenbach@geo.uni-marburg.de*. Please integrate the keyword **[envi-met]** into the subject line  . Conversely, I expect to reach you via your official student e-mail and ask you to check this regularly, at least once in the morning and once in the evening.
 
 

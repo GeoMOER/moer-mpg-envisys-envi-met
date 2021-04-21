@@ -11,7 +11,7 @@ header:
   cta_label: Go to course units
   cta_url: "/units.html"
 
-excerpt: Modeling a forest microclimate using Envi_Met
+excerpt: Modeling a microclimate using ENVI-met
 feature_row_intro:
 - excerpt: Master level course in [Physical Geography](https://www.uni-marburg.de/fb19/studium/studiengaenge/msc-phygeo) at Marburg University
 ---
@@ -21,7 +21,7 @@ feature_row_intro:
 
 
 ## General Information
-Forest ecosystems have highly variable microclimates that are also significantly different from the surrounding climate. In the forest, direct solar radiation and wind speed are greatly reduced leading to the attenuation of extreme climates. The magnitude and more so the processes of these differences especially in a highly structured and relief forest is significant. This course will attempt to predict the spatiotemporal high-resolution heterogeneity of microclimates using the modeling software Envi_Met. 
+Forest ecosystems have highly variable microclimates that are also significantly different from the surrounding climate. In the forest, direct solar radiation and wind speed are greatly reduced leading to the attenuation of extreme climates. The magnitude and more so the processes of these differences especially in a highly structured and relief forest is significant. This course will attempt to predict the spatiotemporal high-resolution heterogeneity of microclimates using the modeling software ENVI-met. 
 
 ## Requirements
 * Admission
@@ -31,7 +31,7 @@ Forest ecosystems have highly variable microclimates that are also significantly
 
 ## Course Objectives
 
-This course introduces you to user-oriented physical microlimate modeling. You will learn to model realistic 3D real-world structures and generate robust microclimatological datasets using Envi_Met software. The highly parametric, user-supportive interfaces allow models to be generated with comparatively little effort. Their simulations provide insight into the high-resolution 3D structure of the model domains. 
+This course introduces you to user-oriented physical microlimate modeling. You will learn to model realistic 3D real-world structures and generate robust microclimatological datasets using ENVI-met software. The highly parametric, user-supportive interfaces allow models to be generated with comparatively little effort. Their simulations provide insight into the high-resolution 3D structure of the model domains. 
 
 The main purpose of modeling is to (1) develop our understanding of complex 4D processes. (2) To conduct a realistic project study based on real MEteo and geospatial data.  During the course, you will use various scenarios so that you can make appropriate choices for your own project.
 
@@ -59,7 +59,7 @@ In addition, there is additional reading under the assignments. The articles, tu
 ## Modeling Software
 This course uses specific modeling software. There are numerous software packages available for simulating weather, climate, and microclimate. Most are extremely complex and require rlonger training.
 
-We use [Envi_Met](https://envi_met.com/) by [Michael Bruse](https://de.wikipedia.org/wiki/Michael_Bruse) in the course. Envi_Met is a powerful GUI-based microclimate model that specializes in urban climates.  You will need a Windows PC and a license key to use it, which is available from the course instructor . 
+We use [ENVI-met](https://envi_met.com/) by [Michael Bruse](https://de.wikipedia.org/wiki/Michael_Bruse) in the course. Envi_Met is a powerful GUI-based microclimate model that specializes in urban climates.  You will need a Windows PC and a license key to use it, which is available from the course instructor . 
 
 
 ## Time expenditure and expiration
@@ -74,25 +74,25 @@ In an average work week, you should spend 10-12 hours on the course. The breakdo
   * Weekly hands-on modeling 
   * Weekly completion of assignments.
   
-* To prepare for attendance, tutorial please email questions to the course instructor with subject: [envi_met]. 
+* To prepare for attendance, tutorial please email questions to the course instructor with subject: [envi-met]. 
 * The presence time serves (1) a compact introduction to the respective topic and (2) the discussion of the questions that arise to the input units in the form of screencasts, videos and readers as well as exercises. If it is technically not possible to hold the classroom session, a screencast with the answers to the questions will be posted online.
 * A total of four assignments are to be completed as coursework.
 * As examination performance, a small study is to be carried out as a project. The project report will be assessed on the basis of the model created. More detailed information about the projects, the type of report and the assessment criteria will be made available on 01.05.2021. The assessment performance is to be done individually/in tandem.
 * The evaluation guide will be posted by 05/01/2021.
-* Submission of the project: 15.09..2021 (00 o'clock).
+* Submission of the project: 15.09.2021 (00 o'clock).
 
 ## Course times and contents
 
 | session | date | topic | content |
 |:-------:|:--------:|:---------|:---------|
 | 1 | 14.04. | Organization and introduction |
-| 2 | 21.04. | Basics Session 1 | Introduction to (micro-) climate models |
-| 3 | 28.04. | Basics Session 2 | Introduction to Envi_Met |
+| 2 | 21.04. | Basics Session 1 | Introduction to Introduction to (micro-) climate models |
+| 3 | 28.04. | Basics Session 2 | Introduction to numerical (micro-) climate models |
 | 4 | 05.05. | Basics Session 3 | Tutorial Example Part 1 |
 | 5 | 12.05. | Basics Session 4 | Tutorial Example Part 2 |
 | 6 | 19.05. | Basics Session 5 | Development of a Model for the Maburg Open Forest 1|
 | 7 | 26.05. | Basics Session 6 | Development of a Model for the Marburg Open Forest 2 |
-| 8 | 02.06. | cancelled project seminar | Development of a model for the Mqrburg Open Forest 3 |
+| 8 | 02.06. | canceled project seminar | Development of a model for the Mqrburg Open Forest 3 |
 | 9 | 09.06. | Basics Session 8 | Evaluation MOF |
 | 10 | 06/16 | Project Phase Session 10 | Introduction to Project Work |
 | 11 | 06/23 | Project phase session 11 | 5 minutes report on status of project work |

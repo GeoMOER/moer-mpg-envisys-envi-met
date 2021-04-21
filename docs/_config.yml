@@ -104,7 +104,7 @@ defaults:
       path: ""
       type: unit00
     values:
-      category: "Formalities"
+      category: "Form"
       tags: "Unit|01"
       layout: single
       sidebar:
@@ -116,13 +116,21 @@ defaults:
       path: ""
       type: unit01
     values:
-      category: "Reader"
+      category: "Material"
       tags: "Unit|01"
       layout: single
       sidebar:
         nav: "units" 
       toc: true
       toc_label: On this page      
+    values:
+      category: "Reader"
+      tags: "Unit|02"
+      layout: single
+      sidebar:
+        nav: "units" 
+      toc: true
+      toc_label: On this page            
   # unit05
   - scope:
       path: ""
