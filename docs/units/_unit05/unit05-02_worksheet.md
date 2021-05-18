@@ -19,8 +19,11 @@ After the first attempts - specifically after the technical example simulations,
 [mandatory](){: .btn .btn--success}
 <!--more-->
 ## Things you need
-*
-*
+
+* [Course Data Server](https://137.248.191.215:8989/sharing/SxrDkOsBp) You will find here all kinds of data, literature and tutorials 
+* [ENVI-met software](https://envi-met.info/doku.php?id=start)
+* Please have al look at the Monde Tutorial videos
+
 ## Assignment
 Design a concrete problem and a suitable associated modeling concept to assess the performance of Envimet to simulate essential microclimatic parameters in forest stands.  Consider the following aspects:
 * abiotic endowment of the model domain (relief, soil, site location).
