@@ -1,5 +1,5 @@
 ---
-title: "Worksheet: Warm up ENVImet and Climate Modeling"
+title: "Worksheet 1: Warm up ENVImet and Climate Modeling"
 
 header:
   image: "/assets/images/envi_met_title.png"

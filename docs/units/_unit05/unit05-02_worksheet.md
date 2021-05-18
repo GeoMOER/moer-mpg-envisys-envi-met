@@ -1,5 +1,5 @@
 ---
-title: "Worksheet 3: Envimet goes MOF "
+title: "Worksheet 2: Envimet goes MOF "
 
 header:
   image: "/assets/images/envi_met_title.png"
