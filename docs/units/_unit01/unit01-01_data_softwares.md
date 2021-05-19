@@ -45,6 +45,8 @@ For most of the data pre and postprocessing, we will use the statistical scripti
 Please follow the instructions according to your operating system.
 
 
+## Additional data sources
 
+[Marburg Open Forest data base](https://github.com/MarburgOpenForest/MOFGeoDB.git) Marburg Open Forest data base for static data. You will find some example R-code for manipulation and extraction. Additionally the data is in a QGIS pProject container.
 
 
